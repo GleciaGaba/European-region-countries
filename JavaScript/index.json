@@ -1,0 +1,738 @@
+[
+   {
+      "name":{
+         "common":"Italy",
+         "official":"Italian Republic",
+         "nativeName":{
+            "ita":{
+               "official":"Repubblica italiana",
+               "common":"Italia"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Germany",
+         "official":"Federal Republic of Germany",
+         "nativeName":{
+            "deu":{
+               "official":"Bundesrepublik Deutschland",
+               "common":"Deutschland"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Norway",
+         "official":"Kingdom of Norway",
+         "nativeName":{
+            "nno":{
+               "official":"Kongeriket Noreg",
+               "common":"Noreg"
+            },
+            "nob":{
+               "official":"Kongeriket Norge",
+               "common":"Norge"
+            },
+            "smi":{
+               "official":"Norgga gonagasriika",
+               "common":"Norgga"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Czechia",
+         "official":"Czech Republic",
+         "nativeName":{
+            "ces":{
+               "official":"Česká republika",
+               "common":"Česko"
+            },
+            "slk":{
+               "official":"Česká republika",
+               "common":"Česko"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Greece",
+         "official":"Hellenic Republic",
+         "nativeName":{
+            "ell":{
+               "official":"Ελληνική Δημοκρατία",
+               "common":"Ελλάδα"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Monaco",
+         "official":"Principality of Monaco",
+         "nativeName":{
+            "fra":{
+               "official":"Principauté de Monaco",
+               "common":"Monaco"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Vatican City",
+         "official":"Vatican City State",
+         "nativeName":{
+            "ita":{
+               "official":"Stato della Città del Vaticano",
+               "common":"Vaticano"
+            },
+            "lat":{
+               "official":"Status Civitatis Vaticanæ",
+               "common":"Vaticanæ"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Hungary",
+         "official":"Hungary",
+         "nativeName":{
+            "hun":{
+               "official":"Magyarország",
+               "common":"Magyarország"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Iceland",
+         "official":"Iceland",
+         "nativeName":{
+            "isl":{
+               "official":"Ísland",
+               "common":"Ísland"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Kosovo",
+         "official":"Republic of Kosovo",
+         "nativeName":{
+            "sqi":{
+               "official":"Republika e Kosovës",
+               "common":"Kosova"
+            },
+            "srp":{
+               "official":"Република Косово",
+               "common":"Косово"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"France",
+         "official":"French Republic",
+         "nativeName":{
+            "fra":{
+               "official":"République française",
+               "common":"France"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Cyprus",
+         "official":"Republic of Cyprus",
+         "nativeName":{
+            "ell":{
+               "official":"Δημοκρατία της Κύπρος",
+               "common":"Κύπρος"
+            },
+            "tur":{
+               "official":"Kıbrıs Cumhuriyeti",
+               "common":"Kıbrıs"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Faroe Islands",
+         "official":"Faroe Islands",
+         "nativeName":{
+            "dan":{
+               "official":"Færøerne",
+               "common":"Færøerne"
+            },
+            "fao":{
+               "official":"Føroyar",
+               "common":"Føroyar"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Bosnia and Herzegovina",
+         "official":"Bosnia and Herzegovina",
+         "nativeName":{
+            "bos":{
+               "official":"Bosna i Hercegovina",
+               "common":"Bosna i Hercegovina"
+            },
+            "hrv":{
+               "official":"Bosna i Hercegovina",
+               "common":"Bosna i Hercegovina"
+            },
+            "srp":{
+               "official":"Боснa и Херцеговина",
+               "common":"Боснa и Херцеговина"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Gibraltar",
+         "official":"Gibraltar",
+         "nativeName":{
+            "eng":{
+               "official":"Gibraltar",
+               "common":"Gibraltar"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"United Kingdom",
+         "official":"United Kingdom of Great Britain and Northern Ireland",
+         "nativeName":{
+            "eng":{
+               "official":"United Kingdom of Great Britain and Northern Ireland",
+               "common":"United Kingdom"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Jersey",
+         "official":"Bailiwick of Jersey",
+         "nativeName":{
+            "eng":{
+               "official":"Bailiwick of Jersey",
+               "common":"Jersey"
+            },
+            "fra":{
+               "official":"Bailliage de Jersey",
+               "common":"Jersey"
+            },
+            "nrf":{
+               "official":"Bailliage dé Jèrri",
+               "common":"Jèrri"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Spain",
+         "official":"Kingdom of Spain",
+         "nativeName":{
+            "spa":{
+               "official":"Reino de España",
+               "common":"España"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Estonia",
+         "official":"Republic of Estonia",
+         "nativeName":{
+            "est":{
+               "official":"Eesti Vabariik",
+               "common":"Eesti"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Albania",
+         "official":"Republic of Albania",
+         "nativeName":{
+            "sqi":{
+               "official":"Republika e Shqipërisë",
+               "common":"Shqipëria"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Serbia",
+         "official":"Republic of Serbia",
+         "nativeName":{
+            "srp":{
+               "official":"Република Србија",
+               "common":"Србија"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Portugal",
+         "official":"Portuguese Republic",
+         "nativeName":{
+            "por":{
+               "official":"República português",
+               "common":"Portugal"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Bulgaria",
+         "official":"Republic of Bulgaria",
+         "nativeName":{
+            "bul":{
+               "official":"Република България",
+               "common":"България"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Latvia",
+         "official":"Republic of Latvia",
+         "nativeName":{
+            "lav":{
+               "official":"Latvijas Republikas",
+               "common":"Latvija"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Svalbard and Jan Mayen",
+         "official":"Svalbard og Jan Mayen",
+         "nativeName":{
+            "nor":{
+               "official":"Svalbard og Jan Mayen",
+               "common":"Svalbard og Jan Mayen"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Åland Islands",
+         "official":"Åland Islands",
+         "nativeName":{
+            "swe":{
+               "official":"Landskapet Åland",
+               "common":"Åland"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Poland",
+         "official":"Republic of Poland",
+         "nativeName":{
+            "pol":{
+               "official":"Rzeczpospolita Polska",
+               "common":"Polska"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Lithuania",
+         "official":"Republic of Lithuania",
+         "nativeName":{
+            "lit":{
+               "official":"Lietuvos Respublikos",
+               "common":"Lietuva"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Slovenia",
+         "official":"Republic of Slovenia",
+         "nativeName":{
+            "slv":{
+               "official":"Republika Slovenija",
+               "common":"Slovenija"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Ukraine",
+         "official":"Ukraine",
+         "nativeName":{
+            "ukr":{
+               "official":"Україна",
+               "common":"Україна"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Austria",
+         "official":"Republic of Austria",
+         "nativeName":{
+            "bar":{
+               "official":"Republik Österreich",
+               "common":"Österreich"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Montenegro",
+         "official":"Montenegro",
+         "nativeName":{
+            "cnr":{
+               "official":"Црна Гора",
+               "common":"Црна Гора"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Malta",
+         "official":"Republic of Malta",
+         "nativeName":{
+            "eng":{
+               "official":"Republic of Malta",
+               "common":"Malta"
+            },
+            "mlt":{
+               "official":"Repubblika ta ' Malta",
+               "common":"Malta"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Luxembourg",
+         "official":"Grand Duchy of Luxembourg",
+         "nativeName":{
+            "deu":{
+               "official":"Großherzogtum Luxemburg",
+               "common":"Luxemburg"
+            },
+            "fra":{
+               "official":"Grand-Duché de Luxembourg",
+               "common":"Luxembourg"
+            },
+            "ltz":{
+               "official":"Groussherzogtum Lëtzebuerg",
+               "common":"Lëtzebuerg"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Guernsey",
+         "official":"Bailiwick of Guernsey",
+         "nativeName":{
+            "eng":{
+               "official":"Bailiwick of Guernsey",
+               "common":"Guernsey"
+            },
+            "fra":{
+               "official":"Bailliage de Guernesey",
+               "common":"Guernesey"
+            },
+            "nfr":{
+               "official":"Dgèrnésiais",
+               "common":"Dgèrnésiais"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Slovakia",
+         "official":"Slovak Republic",
+         "nativeName":{
+            "slk":{
+               "official":"Slovenská republika",
+               "common":"Slovensko"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Russia",
+         "official":"Russian Federation",
+         "nativeName":{
+            "rus":{
+               "official":"Российская Федерация",
+               "common":"Россия"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Denmark",
+         "official":"Kingdom of Denmark",
+         "nativeName":{
+            "dan":{
+               "official":"Kongeriget Danmark",
+               "common":"Danmark"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Ireland",
+         "official":"Republic of Ireland",
+         "nativeName":{
+            "eng":{
+               "official":"Republic of Ireland",
+               "common":"Ireland"
+            },
+            "gle":{
+               "official":"Poblacht na hÉireann",
+               "common":"Éire"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"North Macedonia",
+         "official":"Republic of North Macedonia",
+         "nativeName":{
+            "mkd":{
+               "official":"Република Северна Македонија",
+               "common":"Македонија"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Moldova",
+         "official":"Republic of Moldova",
+         "nativeName":{
+            "ron":{
+               "official":"Republica Moldova",
+               "common":"Moldova"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Belgium",
+         "official":"Kingdom of Belgium",
+         "nativeName":{
+            "deu":{
+               "official":"Königreich Belgien",
+               "common":"Belgien"
+            },
+            "fra":{
+               "official":"Royaume de Belgique",
+               "common":"Belgique"
+            },
+            "nld":{
+               "official":"Koninkrijk België",
+               "common":"België"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Finland",
+         "official":"Republic of Finland",
+         "nativeName":{
+            "fin":{
+               "official":"Suomen tasavalta",
+               "common":"Suomi"
+            },
+            "swe":{
+               "official":"Republiken Finland",
+               "common":"Finland"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Netherlands",
+         "official":"Kingdom of the Netherlands",
+         "nativeName":{
+            "nld":{
+               "official":"Koninkrijk der Nederlanden",
+               "common":"Nederland"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Isle of Man",
+         "official":"Isle of Man",
+         "nativeName":{
+            "eng":{
+               "official":"Isle of Man",
+               "common":"Isle of Man"
+            },
+            "glv":{
+               "official":"Ellan Vannin or Mannin",
+               "common":"Mannin"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Croatia",
+         "official":"Republic of Croatia",
+         "nativeName":{
+            "hrv":{
+               "official":"Republika Hrvatska",
+               "common":"Hrvatska"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Switzerland",
+         "official":"Swiss Confederation",
+         "nativeName":{
+            "fra":{
+               "official":"Confédération suisse",
+               "common":"Suisse"
+            },
+            "gsw":{
+               "official":"Schweizerische Eidgenossenschaft",
+               "common":"Schweiz"
+            },
+            "ita":{
+               "official":"Confederazione Svizzera",
+               "common":"Svizzera"
+            },
+            "roh":{
+               "official":"Confederaziun svizra",
+               "common":"Svizra"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Sweden",
+         "official":"Kingdom of Sweden",
+         "nativeName":{
+            "swe":{
+               "official":"Konungariket Sverige",
+               "common":"Sverige"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Romania",
+         "official":"Romania",
+         "nativeName":{
+            "ron":{
+               "official":"România",
+               "common":"România"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Andorra",
+         "official":"Principality of Andorra",
+         "nativeName":{
+            "cat":{
+               "official":"Principat d'Andorra",
+               "common":"Andorra"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Belarus",
+         "official":"Republic of Belarus",
+         "nativeName":{
+            "bel":{
+               "official":"Рэспубліка Беларусь",
+               "common":"Белару́сь"
+            },
+            "rus":{
+               "official":"Республика Беларусь",
+               "common":"Беларусь"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"Liechtenstein",
+         "official":"Principality of Liechtenstein",
+         "nativeName":{
+            "deu":{
+               "official":"Fürstentum Liechtenstein",
+               "common":"Liechtenstein"
+            }
+         }
+      }
+   },
+   {
+      "name":{
+         "common":"San Marino",
+         "official":"Republic of San Marino",
+         "nativeName":{
+            "ita":{
+               "official":"Repubblica di San Marino",
+               "common":"San Marino"
+            }
+         }
+      }
+   }
+]
