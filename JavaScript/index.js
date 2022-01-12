@@ -6,7 +6,7 @@ async function render(){
     for(const country of countries){
         content += `<li>${country.name.official}</li>`;    
     }
-    const li = document.querySelector("#countries");
-    li.innerHTML =content;
+    const ul = document.querySelector("#countries");
+    ul.innerHTML =content;
 }
 window.addEventListener('load',render());
