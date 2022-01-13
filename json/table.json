@@ -1,0 +1,1003 @@
+[
+   {
+      "name":{
+         "common":"Switzerland",
+         "official":"Swiss Confederation",
+         "nativeName":{
+            "fra":{
+               "official":"Confédération suisse",
+               "common":"Suisse"
+            },
+            "gsw":{
+               "official":"Schweizerische Eidgenossenschaft",
+               "common":"Schweiz"
+            },
+            "ita":{
+               "official":"Confederazione Svizzera",
+               "common":"Svizzera"
+            },
+            "roh":{
+               "official":"Confederaziun svizra",
+               "common":"Svizra"
+            }
+         }
+      },
+      "capital":[
+         "Bern"
+      ],
+      "area":41284.0,
+      "population":8654622
+   },
+   {
+      "name":{
+         "common":"Greece",
+         "official":"Hellenic Republic",
+         "nativeName":{
+            "ell":{
+               "official":"Ελληνική Δημοκρατία",
+               "common":"Ελλάδα"
+            }
+         }
+      },
+      "capital":[
+         "Athens"
+      ],
+      "area":131990.0,
+      "population":10715549
+   },
+   {
+      "name":{
+         "common":"Liechtenstein",
+         "official":"Principality of Liechtenstein",
+         "nativeName":{
+            "deu":{
+               "official":"Fürstentum Liechtenstein",
+               "common":"Liechtenstein"
+            }
+         }
+      },
+      "capital":[
+         "Vaduz"
+      ],
+      "area":160.0,
+      "population":38137
+   },
+   {
+      "name":{
+         "common":"Jersey",
+         "official":"Bailiwick of Jersey",
+         "nativeName":{
+            "eng":{
+               "official":"Bailiwick of Jersey",
+               "common":"Jersey"
+            },
+            "fra":{
+               "official":"Bailliage de Jersey",
+               "common":"Jersey"
+            },
+            "nrf":{
+               "official":"Bailliage dé Jèrri",
+               "common":"Jèrri"
+            }
+         }
+      },
+      "capital":[
+         "Saint Helier"
+      ],
+      "area":116.0,
+      "population":100800
+   },
+   {
+      "name":{
+         "common":"Moldova",
+         "official":"Republic of Moldova",
+         "nativeName":{
+            "ron":{
+               "official":"Republica Moldova",
+               "common":"Moldova"
+            }
+         }
+      },
+      "capital":[
+         "Chișinău"
+      ],
+      "area":33846.0,
+      "population":2617820
+   },
+   {
+      "name":{
+         "common":"Denmark",
+         "official":"Kingdom of Denmark",
+         "nativeName":{
+            "dan":{
+               "official":"Kongeriget Danmark",
+               "common":"Danmark"
+            }
+         }
+      },
+      "capital":[
+         "Copenhagen"
+      ],
+      "area":43094.0,
+      "population":5831404
+   },
+   {
+      "name":{
+         "common":"Slovenia",
+         "official":"Republic of Slovenia",
+         "nativeName":{
+            "slv":{
+               "official":"Republika Slovenija",
+               "common":"Slovenija"
+            }
+         }
+      },
+      "capital":[
+         "Ljubljana"
+      ],
+      "area":20273.0,
+      "population":2100126
+   },
+   {
+      "name":{
+         "common":"Italy",
+         "official":"Italian Republic",
+         "nativeName":{
+            "ita":{
+               "official":"Repubblica italiana",
+               "common":"Italia"
+            }
+         }
+      },
+      "capital":[
+         "Rome"
+      ],
+      "area":301336.0,
+      "population":59554023
+   },
+   {
+      "name":{
+         "common":"Guernsey",
+         "official":"Bailiwick of Guernsey",
+         "nativeName":{
+            "eng":{
+               "official":"Bailiwick of Guernsey",
+               "common":"Guernsey"
+            },
+            "fra":{
+               "official":"Bailliage de Guernesey",
+               "common":"Guernesey"
+            },
+            "nfr":{
+               "official":"Dgèrnésiais",
+               "common":"Dgèrnésiais"
+            }
+         }
+      },
+      "capital":[
+         "St. Peter Port"
+      ],
+      "area":78.0,
+      "population":62999
+   },
+   {
+      "name":{
+         "common":"Poland",
+         "official":"Republic of Poland",
+         "nativeName":{
+            "pol":{
+               "official":"Rzeczpospolita Polska",
+               "common":"Polska"
+            }
+         }
+      },
+      "capital":[
+         "Warsaw"
+      ],
+      "area":312679.0,
+      "population":37950802
+   },
+   {
+      "name":{
+         "common":"Belgium",
+         "official":"Kingdom of Belgium",
+         "nativeName":{
+            "deu":{
+               "official":"Königreich Belgien",
+               "common":"Belgien"
+            },
+            "fra":{
+               "official":"Royaume de Belgique",
+               "common":"Belgique"
+            },
+            "nld":{
+               "official":"Koninkrijk België",
+               "common":"België"
+            }
+         }
+      },
+      "capital":[
+         "Brussels"
+      ],
+      "area":30528.0,
+      "population":11555997
+   },
+   {
+      "name":{
+         "common":"United Kingdom",
+         "official":"United Kingdom of Great Britain and Northern Ireland",
+         "nativeName":{
+            "eng":{
+               "official":"United Kingdom of Great Britain and Northern Ireland",
+               "common":"United Kingdom"
+            }
+         }
+      },
+      "capital":[
+         "London"
+      ],
+      "area":242900.0,
+      "population":67215293
+   },
+   {
+      "name":{
+         "common":"Sweden",
+         "official":"Kingdom of Sweden",
+         "nativeName":{
+            "swe":{
+               "official":"Konungariket Sverige",
+               "common":"Sverige"
+            }
+         }
+      },
+      "capital":[
+         "Stockholm"
+      ],
+      "area":450295.0,
+      "population":10353442
+   },
+   {
+      "name":{
+         "common":"Monaco",
+         "official":"Principality of Monaco",
+         "nativeName":{
+            "fra":{
+               "official":"Principauté de Monaco",
+               "common":"Monaco"
+            }
+         }
+      },
+      "capital":[
+         "Monaco"
+      ],
+      "area":2.02,
+      "population":39244
+   },
+   {
+      "name":{
+         "common":"Ukraine",
+         "official":"Ukraine",
+         "nativeName":{
+            "ukr":{
+               "official":"Україна",
+               "common":"Україна"
+            }
+         }
+      },
+      "capital":[
+         "Kyiv"
+      ],
+      "area":603500.0,
+      "population":44134693
+   },
+   {
+      "name":{
+         "common":"Andorra",
+         "official":"Principality of Andorra",
+         "nativeName":{
+            "cat":{
+               "official":"Principat d'Andorra",
+               "common":"Andorra"
+            }
+         }
+      },
+      "capital":[
+         "Andorra la Vella"
+      ],
+      "area":468.0,
+      "population":77265
+   },
+   {
+      "name":{
+         "common":"Vatican City",
+         "official":"Vatican City State",
+         "nativeName":{
+            "ita":{
+               "official":"Stato della Città del Vaticano",
+               "common":"Vaticano"
+            },
+            "lat":{
+               "official":"Status Civitatis Vaticanæ",
+               "common":"Vaticanæ"
+            }
+         }
+      },
+      "capital":[
+         "Vatican City"
+      ],
+      "area":0.44,
+      "population":451
+   },
+   {
+      "name":{
+         "common":"Svalbard and Jan Mayen",
+         "official":"Svalbard og Jan Mayen",
+         "nativeName":{
+            "nor":{
+               "official":"Svalbard og Jan Mayen",
+               "common":"Svalbard og Jan Mayen"
+            }
+         }
+      },
+      "capital":[
+         "Longyearbyen"
+      ],
+      "area":-1.0,
+      "population":2562
+   },
+   {
+      "name":{
+         "common":"Estonia",
+         "official":"Republic of Estonia",
+         "nativeName":{
+            "est":{
+               "official":"Eesti Vabariik",
+               "common":"Eesti"
+            }
+         }
+      },
+      "capital":[
+         "Tallinn"
+      ],
+      "area":45227.0,
+      "population":1331057
+   },
+   {
+      "name":{
+         "common":"Albania",
+         "official":"Republic of Albania",
+         "nativeName":{
+            "sqi":{
+               "official":"Republika e Shqipërisë",
+               "common":"Shqipëria"
+            }
+         }
+      },
+      "capital":[
+         "Tirana"
+      ],
+      "area":28748.0,
+      "population":2837743
+   },
+   {
+      "name":{
+         "common":"Isle of Man",
+         "official":"Isle of Man",
+         "nativeName":{
+            "eng":{
+               "official":"Isle of Man",
+               "common":"Isle of Man"
+            },
+            "glv":{
+               "official":"Ellan Vannin or Mannin",
+               "common":"Mannin"
+            }
+         }
+      },
+      "capital":[
+         "Douglas"
+      ],
+      "area":572.0,
+      "population":85032
+   },
+   {
+      "name":{
+         "common":"North Macedonia",
+         "official":"Republic of North Macedonia",
+         "nativeName":{
+            "mkd":{
+               "official":"Република Северна Македонија",
+               "common":"Македонија"
+            }
+         }
+      },
+      "capital":[
+         "Skopje"
+      ],
+      "area":25713.0,
+      "population":2077132
+   },
+   {
+      "name":{
+         "common":"Portugal",
+         "official":"Portuguese Republic",
+         "nativeName":{
+            "por":{
+               "official":"República português",
+               "common":"Portugal"
+            }
+         }
+      },
+      "capital":[
+         "Lisbon"
+      ],
+      "area":92090.0,
+      "population":10305564
+   },
+   {
+      "name":{
+         "common":"Kosovo",
+         "official":"Republic of Kosovo",
+         "nativeName":{
+            "sqi":{
+               "official":"Republika e Kosovës",
+               "common":"Kosova"
+            },
+            "srp":{
+               "official":"Република Косово",
+               "common":"Косово"
+            }
+         }
+      },
+      "capital":[
+         "Pristina"
+      ],
+      "area":10908.0,
+      "population":1775378
+   },
+   {
+      "name":{
+         "common":"Gibraltar",
+         "official":"Gibraltar",
+         "nativeName":{
+            "eng":{
+               "official":"Gibraltar",
+               "common":"Gibraltar"
+            }
+         }
+      },
+      "capital":[
+         "Gibraltar"
+      ],
+      "area":6.0,
+      "population":33691
+   },
+   {
+      "name":{
+         "common":"Malta",
+         "official":"Republic of Malta",
+         "nativeName":{
+            "eng":{
+               "official":"Republic of Malta",
+               "common":"Malta"
+            },
+            "mlt":{
+               "official":"Repubblika ta ' Malta",
+               "common":"Malta"
+            }
+         }
+      },
+      "capital":[
+         "Valletta"
+      ],
+      "area":316.0,
+      "population":525285
+   },
+   {
+      "name":{
+         "common":"Romania",
+         "official":"Romania",
+         "nativeName":{
+            "ron":{
+               "official":"România",
+               "common":"România"
+            }
+         }
+      },
+      "capital":[
+         "Bucharest"
+      ],
+      "area":238391.0,
+      "population":19286123
+   },
+   {
+      "name":{
+         "common":"Austria",
+         "official":"Republic of Austria",
+         "nativeName":{
+            "bar":{
+               "official":"Republik Österreich",
+               "common":"Österreich"
+            }
+         }
+      },
+      "capital":[
+         "Vienna"
+      ],
+      "area":83871.0,
+      "population":8917205
+   },
+   {
+      "name":{
+         "common":"Czechia",
+         "official":"Czech Republic",
+         "nativeName":{
+            "ces":{
+               "official":"Česká republika",
+               "common":"Česko"
+            },
+            "slk":{
+               "official":"Česká republika",
+               "common":"Česko"
+            }
+         }
+      },
+      "capital":[
+         "Prague"
+      ],
+      "area":78865.0,
+      "population":10698896
+   },
+   {
+      "name":{
+         "common":"Finland",
+         "official":"Republic of Finland",
+         "nativeName":{
+            "fin":{
+               "official":"Suomen tasavalta",
+               "common":"Suomi"
+            },
+            "swe":{
+               "official":"Republiken Finland",
+               "common":"Finland"
+            }
+         }
+      },
+      "capital":[
+         "Helsinki"
+      ],
+      "area":338424.0,
+      "population":5530719
+   },
+   {
+      "name":{
+         "common":"Croatia",
+         "official":"Republic of Croatia",
+         "nativeName":{
+            "hrv":{
+               "official":"Republika Hrvatska",
+               "common":"Hrvatska"
+            }
+         }
+      },
+      "capital":[
+         "Zagreb"
+      ],
+      "area":56594.0,
+      "population":4047200
+   },
+   {
+      "name":{
+         "common":"Latvia",
+         "official":"Republic of Latvia",
+         "nativeName":{
+            "lav":{
+               "official":"Latvijas Republikas",
+               "common":"Latvija"
+            }
+         }
+      },
+      "capital":[
+         "Riga"
+      ],
+      "area":64559.0,
+      "population":1901548
+   },
+   {
+      "name":{
+         "common":"Bulgaria",
+         "official":"Republic of Bulgaria",
+         "nativeName":{
+            "bul":{
+               "official":"Република България",
+               "common":"България"
+            }
+         }
+      },
+      "capital":[
+         "Sofia"
+      ],
+      "area":110879.0,
+      "population":6927288
+   },
+   {
+      "name":{
+         "common":"Faroe Islands",
+         "official":"Faroe Islands",
+         "nativeName":{
+            "dan":{
+               "official":"Færøerne",
+               "common":"Færøerne"
+            },
+            "fao":{
+               "official":"Føroyar",
+               "common":"Føroyar"
+            }
+         }
+      },
+      "capital":[
+         "Tórshavn"
+      ],
+      "area":1393.0,
+      "population":48865
+   },
+   {
+      "name":{
+         "common":"Germany",
+         "official":"Federal Republic of Germany",
+         "nativeName":{
+            "deu":{
+               "official":"Bundesrepublik Deutschland",
+               "common":"Deutschland"
+            }
+         }
+      },
+      "capital":[
+         "Berlin"
+      ],
+      "area":357114.0,
+      "population":83240525
+   },
+   {
+      "name":{
+         "common":"Åland Islands",
+         "official":"Åland Islands",
+         "nativeName":{
+            "swe":{
+               "official":"Landskapet Åland",
+               "common":"Åland"
+            }
+         }
+      },
+      "capital":[
+         "Mariehamn"
+      ],
+      "area":1580.0,
+      "population":29458
+   },
+   {
+      "name":{
+         "common":"Ireland",
+         "official":"Republic of Ireland",
+         "nativeName":{
+            "eng":{
+               "official":"Republic of Ireland",
+               "common":"Ireland"
+            },
+            "gle":{
+               "official":"Poblacht na hÉireann",
+               "common":"Éire"
+            }
+         }
+      },
+      "capital":[
+         "Dublin"
+      ],
+      "area":70273.0,
+      "population":4994724
+   },
+   {
+      "name":{
+         "common":"Spain",
+         "official":"Kingdom of Spain",
+         "nativeName":{
+            "spa":{
+               "official":"Reino de España",
+               "common":"España"
+            }
+         }
+      },
+      "capital":[
+         "Madrid"
+      ],
+      "area":505992.0,
+      "population":47351567
+   },
+   {
+      "name":{
+         "common":"Luxembourg",
+         "official":"Grand Duchy of Luxembourg",
+         "nativeName":{
+            "deu":{
+               "official":"Großherzogtum Luxemburg",
+               "common":"Luxemburg"
+            },
+            "fra":{
+               "official":"Grand-Duché de Luxembourg",
+               "common":"Luxembourg"
+            },
+            "ltz":{
+               "official":"Groussherzogtum Lëtzebuerg",
+               "common":"Lëtzebuerg"
+            }
+         }
+      },
+      "capital":[
+         "Luxembourg"
+      ],
+      "area":2586.0,
+      "population":632275
+   },
+   {
+      "name":{
+         "common":"Montenegro",
+         "official":"Montenegro",
+         "nativeName":{
+            "cnr":{
+               "official":"Црна Гора",
+               "common":"Црна Гора"
+            }
+         }
+      },
+      "capital":[
+         "Podgorica"
+      ],
+      "area":13812.0,
+      "population":621718
+   },
+   {
+      "name":{
+         "common":"Serbia",
+         "official":"Republic of Serbia",
+         "nativeName":{
+            "srp":{
+               "official":"Република Србија",
+               "common":"Србија"
+            }
+         }
+      },
+      "capital":[
+         "Belgrade"
+      ],
+      "area":88361.0,
+      "population":6908224
+   },
+   {
+      "name":{
+         "common":"Norway",
+         "official":"Kingdom of Norway",
+         "nativeName":{
+            "nno":{
+               "official":"Kongeriket Noreg",
+               "common":"Noreg"
+            },
+            "nob":{
+               "official":"Kongeriket Norge",
+               "common":"Norge"
+            },
+            "smi":{
+               "official":"Norgga gonagasriika",
+               "common":"Norgga"
+            }
+         }
+      },
+      "capital":[
+         "Oslo"
+      ],
+      "area":323802.0,
+      "population":5379475
+   },
+   {
+      "name":{
+         "common":"Netherlands",
+         "official":"Kingdom of the Netherlands",
+         "nativeName":{
+            "nld":{
+               "official":"Koninkrijk der Nederlanden",
+               "common":"Nederland"
+            }
+         }
+      },
+      "capital":[
+         "Amsterdam"
+      ],
+      "area":41850.0,
+      "population":16655799
+   },
+   {
+      "name":{
+         "common":"Bosnia and Herzegovina",
+         "official":"Bosnia and Herzegovina",
+         "nativeName":{
+            "bos":{
+               "official":"Bosna i Hercegovina",
+               "common":"Bosna i Hercegovina"
+            },
+            "hrv":{
+               "official":"Bosna i Hercegovina",
+               "common":"Bosna i Hercegovina"
+            },
+            "srp":{
+               "official":"Боснa и Херцеговина",
+               "common":"Боснa и Херцеговина"
+            }
+         }
+      },
+      "capital":[
+         "Sarajevo"
+      ],
+      "area":51209.0,
+      "population":3280815
+   },
+   {
+      "name":{
+         "common":"San Marino",
+         "official":"Republic of San Marino",
+         "nativeName":{
+            "ita":{
+               "official":"Repubblica di San Marino",
+               "common":"San Marino"
+            }
+         }
+      },
+      "capital":[
+         "City of San Marino"
+      ],
+      "area":61.0,
+      "population":33938
+   },
+   {
+      "name":{
+         "common":"Slovakia",
+         "official":"Slovak Republic",
+         "nativeName":{
+            "slk":{
+               "official":"Slovenská republika",
+               "common":"Slovensko"
+            }
+         }
+      },
+      "capital":[
+         "Bratislava"
+      ],
+      "area":49037.0,
+      "population":5458827
+   },
+   {
+      "name":{
+         "common":"Belarus",
+         "official":"Republic of Belarus",
+         "nativeName":{
+            "bel":{
+               "official":"Рэспубліка Беларусь",
+               "common":"Белару́сь"
+            },
+            "rus":{
+               "official":"Республика Беларусь",
+               "common":"Беларусь"
+            }
+         }
+      },
+      "capital":[
+         "Minsk"
+      ],
+      "area":207600.0,
+      "population":9398861
+   },
+   {
+      "name":{
+         "common":"Hungary",
+         "official":"Hungary",
+         "nativeName":{
+            "hun":{
+               "official":"Magyarország",
+               "common":"Magyarország"
+            }
+         }
+      },
+      "capital":[
+         "Budapest"
+      ],
+      "area":93028.0,
+      "population":9749763
+   },
+   {
+      "name":{
+         "common":"Cyprus",
+         "official":"Republic of Cyprus",
+         "nativeName":{
+            "ell":{
+               "official":"Δημοκρατία της Κύπρος",
+               "common":"Κύπρος"
+            },
+            "tur":{
+               "official":"Kıbrıs Cumhuriyeti",
+               "common":"Kıbrıs"
+            }
+         }
+      },
+      "capital":[
+         "Nicosia"
+      ],
+      "area":9251.0,
+      "population":1207361
+   },
+   {
+      "name":{
+         "common":"Lithuania",
+         "official":"Republic of Lithuania",
+         "nativeName":{
+            "lit":{
+               "official":"Lietuvos Respublikos",
+               "common":"Lietuva"
+            }
+         }
+      },
+      "capital":[
+         "Vilnius"
+      ],
+      "area":65300.0,
+      "population":2794700
+   },
+   {
+      "name":{
+         "common":"Russia",
+         "official":"Russian Federation",
+         "nativeName":{
+            "rus":{
+               "official":"Российская Федерация",
+               "common":"Россия"
+            }
+         }
+      },
+      "capital":[
+         "Moscow"
+      ],
+      "area":1.7098242E7,
+      "population":144104080
+   },
+   {
+      "name":{
+         "common":"France",
+         "official":"French Republic",
+         "nativeName":{
+            "fra":{
+               "official":"République française",
+               "common":"France"
+            }
+         }
+      },
+      "capital":[
+         "Paris"
+      ],
+      "area":551695.0,
+      "population":67391582
+   },
+   {
+      "name":{
+         "common":"Iceland",
+         "official":"Iceland",
+         "nativeName":{
+            "isl":{
+               "official":"Ísland",
+               "common":"Ísland"
+            }
+         }
+      },
+      "capital":[
+         "Reykjavik"
+      ],
+      "area":103000.0,
+      "population":366425
+   }
+]
