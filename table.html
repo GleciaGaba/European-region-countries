@@ -15,45 +15,22 @@
   
       <header>
         
-        <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
-          
-          
-            <div class="container-xl navbar-collapse ">
-               <a href="index.html" class="navbar-brand mb-0 h1">Eu</a>
-              
-            <div class="collapse navbar-collapse" id="navbarNav">
-              
-              
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                  <li class="nav-item">
-                  
-                    <a href="table.html" class="nav-link active">Table</a>
-     
-                  </li>
-              </ul>
-     
-     
-     
-     
-              </div>
-       
-              <button 
-              type="button"
-              data-bs-toggle="collapse"
-              data-bs-target="#navbarNav"
-              class="navbar-toggler"
-              aria-control="navbarNav"
-              aria-expanded="false"
-              aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-             </button>
-            
-            
-            
-            </div>
-         
-   
-        </nav>
+        <header class="sticky-top ">
+            <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+                <div class="container-xl">
+                    <a class="navbar-brand " href="index.html">Eu</a>
+                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarScroll">
+                        <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="table.html">Table</a>
+                        </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
       
      </header>
        
@@ -66,6 +43,7 @@
      <div class="container-xl mt-5">
         <main>
             <h1>HTML table presentation</h1>
+           
             <table class="table table-bordered table-hover">
               <thead>
                   <tr class="table-light text-center">
@@ -76,13 +54,13 @@
                   </tr>
               </thead>
               <tbody id="countriesTable" class="border-top-0 text-nowrap"></tbody>
-              
+              <div class="modal-dialog modal-dialog-scrollable"></div>
               
               <caption class="text-secondary border-top-0">List of european region countries</caption>
           
-          
+              
             </table>
-       
+            
         </main>
     
         
@@ -90,7 +68,6 @@
     </div>
     
   
-       
 
     
     
