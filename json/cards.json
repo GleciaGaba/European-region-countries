@@ -1,0 +1,1321 @@
+[
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ch.png",
+         "svg":"https://flagcdn.com/ch.svg"
+      },
+      "name":{
+         "common":"Switzerland",
+         "official":"Swiss Confederation",
+         "nativeName":{
+            "fra":{
+               "official":"Confédération suisse",
+               "common":"Suisse"
+            },
+            "gsw":{
+               "official":"Schweizerische Eidgenossenschaft",
+               "common":"Schweiz"
+            },
+            "ita":{
+               "official":"Confederazione Svizzera",
+               "common":"Svizzera"
+            },
+            "roh":{
+               "official":"Confederaziun svizra",
+               "common":"Svizra"
+            }
+         }
+      },
+      "capital":[
+         "Bern"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/51701"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/gr.png",
+         "svg":"https://flagcdn.com/gr.svg"
+      },
+      "name":{
+         "common":"Greece",
+         "official":"Hellenic Republic",
+         "nativeName":{
+            "ell":{
+               "official":"Ελληνική Δημοκρατία",
+               "common":"Ελλάδα"
+            }
+         }
+      },
+      "capital":[
+         "Athens"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/192307"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/li.png",
+         "svg":"https://flagcdn.com/li.svg"
+      },
+      "name":{
+         "common":"Liechtenstein",
+         "official":"Principality of Liechtenstein",
+         "nativeName":{
+            "deu":{
+               "official":"Fürstentum Liechtenstein",
+               "common":"Liechtenstein"
+            }
+         }
+      },
+      "capital":[
+         "Vaduz"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1155955"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/je.png",
+         "svg":"https://flagcdn.com/je.svg"
+      },
+      "name":{
+         "common":"Jersey",
+         "official":"Bailiwick of Jersey",
+         "nativeName":{
+            "eng":{
+               "official":"Bailiwick of Jersey",
+               "common":"Jersey"
+            },
+            "fra":{
+               "official":"Bailliage de Jersey",
+               "common":"Jersey"
+            },
+            "nrf":{
+               "official":"Bailliage dé Jèrri",
+               "common":"Jèrri"
+            }
+         }
+      },
+      "capital":[
+         "Saint Helier"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/rXG8GZZtsqK92kTCA",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/367988"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/md.png",
+         "svg":"https://flagcdn.com/md.svg"
+      },
+      "name":{
+         "common":"Moldova",
+         "official":"Republic of Moldova",
+         "nativeName":{
+            "ron":{
+               "official":"Republica Moldova",
+               "common":"Moldova"
+            }
+         }
+      },
+      "capital":[
+         "Chișinău"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/JjmyUuULujnDeFPf7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/58974"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/dk.png",
+         "svg":"https://flagcdn.com/dk.svg"
+      },
+      "name":{
+         "common":"Denmark",
+         "official":"Kingdom of Denmark",
+         "nativeName":{
+            "dan":{
+               "official":"Kongeriget Danmark",
+               "common":"Danmark"
+            }
+         }
+      },
+      "capital":[
+         "Copenhagen"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/50046"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/si.png",
+         "svg":"https://flagcdn.com/si.svg"
+      },
+      "name":{
+         "common":"Slovenia",
+         "official":"Republic of Slovenia",
+         "nativeName":{
+            "slv":{
+               "official":"Republika Slovenija",
+               "common":"Slovenija"
+            }
+         }
+      },
+      "capital":[
+         "Ljubljana"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/7zgFmswcCJh5L5D49",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/218657"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/it.png",
+         "svg":"https://flagcdn.com/it.svg"
+      },
+      "name":{
+         "common":"Italy",
+         "official":"Italian Republic",
+         "nativeName":{
+            "ita":{
+               "official":"Repubblica italiana",
+               "common":"Italia"
+            }
+         }
+      },
+      "capital":[
+         "Rome"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/8M1K27TDj7StTRTq8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/365331"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/gg.png",
+         "svg":"https://flagcdn.com/gg.svg"
+      },
+      "name":{
+         "common":"Guernsey",
+         "official":"Bailiwick of Guernsey",
+         "nativeName":{
+            "eng":{
+               "official":"Bailiwick of Guernsey",
+               "common":"Guernsey"
+            },
+            "fra":{
+               "official":"Bailliage de Guernesey",
+               "common":"Guernesey"
+            },
+            "nfr":{
+               "official":"Dgèrnésiais",
+               "common":"Dgèrnésiais"
+            }
+         }
+      },
+      "capital":[
+         "St. Peter Port"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/270009"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/pl.png",
+         "svg":"https://flagcdn.com/pl.svg"
+      },
+      "name":{
+         "common":"Poland",
+         "official":"Republic of Poland",
+         "nativeName":{
+            "pol":{
+               "official":"Rzeczpospolita Polska",
+               "common":"Polska"
+            }
+         }
+      },
+      "capital":[
+         "Warsaw"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/gY9Xw4Sf4415P4949",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/49715"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/be.png",
+         "svg":"https://flagcdn.com/be.svg"
+      },
+      "name":{
+         "common":"Belgium",
+         "official":"Kingdom of Belgium",
+         "nativeName":{
+            "deu":{
+               "official":"Königreich Belgien",
+               "common":"Belgien"
+            },
+            "fra":{
+               "official":"Royaume de Belgique",
+               "common":"Belgique"
+            },
+            "nld":{
+               "official":"Koninkrijk België",
+               "common":"België"
+            }
+         }
+      },
+      "capital":[
+         "Brussels"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/UQQzat85TCtPRXAL8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/52411"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/gb.png",
+         "svg":"https://flagcdn.com/gb.svg"
+      },
+      "name":{
+         "common":"United Kingdom",
+         "official":"United Kingdom of Great Britain and Northern Ireland",
+         "nativeName":{
+            "eng":{
+               "official":"United Kingdom of Great Britain and Northern Ireland",
+               "common":"United Kingdom"
+            }
+         }
+      },
+      "capital":[
+         "London"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/62149"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/se.png",
+         "svg":"https://flagcdn.com/se.svg"
+      },
+      "name":{
+         "common":"Sweden",
+         "official":"Kingdom of Sweden",
+         "nativeName":{
+            "swe":{
+               "official":"Konungariket Sverige",
+               "common":"Sverige"
+            }
+         }
+      },
+      "capital":[
+         "Stockholm"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/iqygE491ADVgnBW39",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/52822"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/mc.png",
+         "svg":"https://flagcdn.com/mc.svg"
+      },
+      "name":{
+         "common":"Monaco",
+         "official":"Principality of Monaco",
+         "nativeName":{
+            "fra":{
+               "official":"Principauté de Monaco",
+               "common":"Monaco"
+            }
+         }
+      },
+      "capital":[
+         "Monaco"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/DGpndDot28bYdXYn7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1124039"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ua.png",
+         "svg":"https://flagcdn.com/ua.svg"
+      },
+      "name":{
+         "common":"Ukraine",
+         "official":"Ukraine",
+         "nativeName":{
+            "ukr":{
+               "official":"Україна",
+               "common":"Україна"
+            }
+         }
+      },
+      "capital":[
+         "Kyiv"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/60199"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ad.png",
+         "svg":"https://flagcdn.com/ad.svg"
+      },
+      "name":{
+         "common":"Andorra",
+         "official":"Principality of Andorra",
+         "nativeName":{
+            "cat":{
+               "official":"Principat d'Andorra",
+               "common":"Andorra"
+            }
+         }
+      },
+      "capital":[
+         "Andorra la Vella"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/JqAnacWE2qEznKgw7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/9407"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/va.png",
+         "svg":"https://flagcdn.com/va.svg"
+      },
+      "name":{
+         "common":"Vatican City",
+         "official":"Vatican City State",
+         "nativeName":{
+            "ita":{
+               "official":"Stato della Città del Vaticano",
+               "common":"Vaticano"
+            },
+            "lat":{
+               "official":"Status Civitatis Vaticanæ",
+               "common":"Vaticanæ"
+            }
+         }
+      },
+      "capital":[
+         "Vatican City"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/36989"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/sj.png",
+         "svg":"https://flagcdn.com/sj.svg"
+      },
+      "name":{
+         "common":"Svalbard and Jan Mayen",
+         "official":"Svalbard og Jan Mayen",
+         "nativeName":{
+            "nor":{
+               "official":"Svalbard og Jan Mayen",
+               "common":"Svalbard og Jan Mayen"
+            }
+         }
+      },
+      "capital":[
+         "Longyearbyen"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1337397"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ee.png",
+         "svg":"https://flagcdn.com/ee.svg"
+      },
+      "name":{
+         "common":"Estonia",
+         "official":"Republic of Estonia",
+         "nativeName":{
+            "est":{
+               "official":"Eesti Vabariik",
+               "common":"Eesti"
+            }
+         }
+      },
+      "capital":[
+         "Tallinn"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/6SsynwGUodL1sDvq8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/79510"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/al.png",
+         "svg":"https://flagcdn.com/al.svg"
+      },
+      "name":{
+         "common":"Albania",
+         "official":"Republic of Albania",
+         "nativeName":{
+            "sqi":{
+               "official":"Republika e Shqipërisë",
+               "common":"Shqipëria"
+            }
+         }
+      },
+      "capital":[
+         "Tirana"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/53292"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/im.png",
+         "svg":"https://flagcdn.com/im.svg"
+      },
+      "name":{
+         "common":"Isle of Man",
+         "official":"Isle of Man",
+         "nativeName":{
+            "eng":{
+               "official":"Isle of Man",
+               "common":"Isle of Man"
+            },
+            "glv":{
+               "official":"Ellan Vannin or Mannin",
+               "common":"Mannin"
+            }
+         }
+      },
+      "capital":[
+         "Douglas"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/62269"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/mk.png",
+         "svg":"https://flagcdn.com/mk.svg"
+      },
+      "name":{
+         "common":"North Macedonia",
+         "official":"Republic of North Macedonia",
+         "nativeName":{
+            "mkd":{
+               "official":"Република Северна Македонија",
+               "common":"Македонија"
+            }
+         }
+      },
+      "capital":[
+         "Skopje"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/53293"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/pt.png",
+         "svg":"https://flagcdn.com/pt.svg"
+      },
+      "name":{
+         "common":"Portugal",
+         "official":"Portuguese Republic",
+         "nativeName":{
+            "por":{
+               "official":"República português",
+               "common":"Portugal"
+            }
+         }
+      },
+      "capital":[
+         "Lisbon"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/295480"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/xk.png",
+         "svg":"https://flagcdn.com/xk.svg"
+      },
+      "name":{
+         "common":"Kosovo",
+         "official":"Republic of Kosovo",
+         "nativeName":{
+            "sqi":{
+               "official":"Republika e Kosovës",
+               "common":"Kosova"
+            },
+            "srp":{
+               "official":"Република Косово",
+               "common":"Косово"
+            }
+         }
+      },
+      "capital":[
+         "Pristina"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/CSC4Yc8SWPgburuD9",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/2088990"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/gi.png",
+         "svg":"https://flagcdn.com/gi.svg"
+      },
+      "name":{
+         "common":"Gibraltar",
+         "official":"Gibraltar",
+         "nativeName":{
+            "eng":{
+               "official":"Gibraltar",
+               "common":"Gibraltar"
+            }
+         }
+      },
+      "capital":[
+         "Gibraltar"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1278736"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/mt.png",
+         "svg":"https://flagcdn.com/mt.svg"
+      },
+      "name":{
+         "common":"Malta",
+         "official":"Republic of Malta",
+         "nativeName":{
+            "eng":{
+               "official":"Republic of Malta",
+               "common":"Malta"
+            },
+            "mlt":{
+               "official":"Repubblika ta ' Malta",
+               "common":"Malta"
+            }
+         }
+      },
+      "capital":[
+         "Valletta"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/skXCqguxDxxEKVk47",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/365307"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ro.png",
+         "svg":"https://flagcdn.com/ro.svg"
+      },
+      "name":{
+         "common":"Romania",
+         "official":"Romania",
+         "nativeName":{
+            "ron":{
+               "official":"România",
+               "common":"România"
+            }
+         }
+      },
+      "capital":[
+         "Bucharest"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/845hAgCf1mDkN3vr7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/90689"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/at.png",
+         "svg":"https://flagcdn.com/at.svg"
+      },
+      "name":{
+         "common":"Austria",
+         "official":"Republic of Austria",
+         "nativeName":{
+            "bar":{
+               "official":"Republik Österreich",
+               "common":"Österreich"
+            }
+         }
+      },
+      "capital":[
+         "Vienna"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/16239"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/cz.png",
+         "svg":"https://flagcdn.com/cz.svg"
+      },
+      "name":{
+         "common":"Czechia",
+         "official":"Czech Republic",
+         "nativeName":{
+            "ces":{
+               "official":"Česká republika",
+               "common":"Česko"
+            },
+            "slk":{
+               "official":"Česká republika",
+               "common":"Česko"
+            }
+         }
+      },
+      "capital":[
+         "Prague"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/51684"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/fi.png",
+         "svg":"https://flagcdn.com/fi.svg"
+      },
+      "name":{
+         "common":"Finland",
+         "official":"Republic of Finland",
+         "nativeName":{
+            "fin":{
+               "official":"Suomen tasavalta",
+               "common":"Suomi"
+            },
+            "swe":{
+               "official":"Republiken Finland",
+               "common":"Finland"
+            }
+         }
+      },
+      "capital":[
+         "Helsinki"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+         "openStreetMaps":"openstreetmap.org/relation/54224"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/hr.png",
+         "svg":"https://flagcdn.com/hr.svg"
+      },
+      "name":{
+         "common":"Croatia",
+         "official":"Republic of Croatia",
+         "nativeName":{
+            "hrv":{
+               "official":"Republika Hrvatska",
+               "common":"Hrvatska"
+            }
+         }
+      },
+      "capital":[
+         "Zagreb"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/214885"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/lv.png",
+         "svg":"https://flagcdn.com/lv.svg"
+      },
+      "name":{
+         "common":"Latvia",
+         "official":"Republic of Latvia",
+         "nativeName":{
+            "lav":{
+               "official":"Latvijas Republikas",
+               "common":"Latvija"
+            }
+         }
+      },
+      "capital":[
+         "Riga"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/72594"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/bg.png",
+         "svg":"https://flagcdn.com/bg.svg"
+      },
+      "name":{
+         "common":"Bulgaria",
+         "official":"Republic of Bulgaria",
+         "nativeName":{
+            "bul":{
+               "official":"Република България",
+               "common":"България"
+            }
+         }
+      },
+      "capital":[
+         "Sofia"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/186382"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/fo.png",
+         "svg":"https://flagcdn.com/fo.svg"
+      },
+      "name":{
+         "common":"Faroe Islands",
+         "official":"Faroe Islands",
+         "nativeName":{
+            "dan":{
+               "official":"Færøerne",
+               "common":"Færøerne"
+            },
+            "fao":{
+               "official":"Føroyar",
+               "common":"Føroyar"
+            }
+         }
+      },
+      "capital":[
+         "Tórshavn"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/6sTru4SmHdEVcNkM6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/52939"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/de.png",
+         "svg":"https://flagcdn.com/de.svg"
+      },
+      "name":{
+         "common":"Germany",
+         "official":"Federal Republic of Germany",
+         "nativeName":{
+            "deu":{
+               "official":"Bundesrepublik Deutschland",
+               "common":"Deutschland"
+            }
+         }
+      },
+      "capital":[
+         "Berlin"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/51477"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ax.png",
+         "svg":"https://flagcdn.com/ax.svg"
+      },
+      "name":{
+         "common":"Åland Islands",
+         "official":"Åland Islands",
+         "nativeName":{
+            "swe":{
+               "official":"Landskapet Åland",
+               "common":"Åland"
+            }
+         }
+      },
+      "capital":[
+         "Mariehamn"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1650407"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ie.png",
+         "svg":"https://flagcdn.com/ie.svg"
+      },
+      "name":{
+         "common":"Ireland",
+         "official":"Republic of Ireland",
+         "nativeName":{
+            "eng":{
+               "official":"Republic of Ireland",
+               "common":"Ireland"
+            },
+            "gle":{
+               "official":"Poblacht na hÉireann",
+               "common":"Éire"
+            }
+         }
+      },
+      "capital":[
+         "Dublin"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/hxd1BKxgpchStzQC6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/62273"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/es.png",
+         "svg":"https://flagcdn.com/es.svg"
+      },
+      "name":{
+         "common":"Spain",
+         "official":"Kingdom of Spain",
+         "nativeName":{
+            "spa":{
+               "official":"Reino de España",
+               "common":"España"
+            }
+         }
+      },
+      "capital":[
+         "Madrid"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/138JaXW8EZzRVitY9",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1311341"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/lu.png",
+         "svg":"https://flagcdn.com/lu.svg"
+      },
+      "name":{
+         "common":"Luxembourg",
+         "official":"Grand Duchy of Luxembourg",
+         "nativeName":{
+            "deu":{
+               "official":"Großherzogtum Luxemburg",
+               "common":"Luxemburg"
+            },
+            "fra":{
+               "official":"Grand-Duché de Luxembourg",
+               "common":"Luxembourg"
+            },
+            "ltz":{
+               "official":"Groussherzogtum Lëtzebuerg",
+               "common":"Lëtzebuerg"
+            }
+         }
+      },
+      "capital":[
+         "Luxembourg"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/me.png",
+         "svg":"https://flagcdn.com/me.svg"
+      },
+      "name":{
+         "common":"Montenegro",
+         "official":"Montenegro",
+         "nativeName":{
+            "cnr":{
+               "official":"Црна Гора",
+               "common":"Црна Гора"
+            }
+         }
+      },
+      "capital":[
+         "Podgorica"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/4THX1fM7WqANuPbB8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/53296"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/rs.png",
+         "svg":"https://flagcdn.com/rs.svg"
+      },
+      "name":{
+         "common":"Serbia",
+         "official":"Republic of Serbia",
+         "nativeName":{
+            "srp":{
+               "official":"Република Србија",
+               "common":"Србија"
+            }
+         }
+      },
+      "capital":[
+         "Belgrade"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1741311"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/no.png",
+         "svg":"https://flagcdn.com/no.svg"
+      },
+      "name":{
+         "common":"Norway",
+         "official":"Kingdom of Norway",
+         "nativeName":{
+            "nno":{
+               "official":"Kongeriket Noreg",
+               "common":"Noreg"
+            },
+            "nob":{
+               "official":"Kongeriket Norge",
+               "common":"Norge"
+            },
+            "smi":{
+               "official":"Norgga gonagasriika",
+               "common":"Norgga"
+            }
+         }
+      },
+      "capital":[
+         "Oslo"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/htWRrphA7vNgQNdSA",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/2978650"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/nl.png",
+         "svg":"https://flagcdn.com/nl.svg"
+      },
+      "name":{
+         "common":"Netherlands",
+         "official":"Kingdom of the Netherlands",
+         "nativeName":{
+            "nld":{
+               "official":"Koninkrijk der Nederlanden",
+               "common":"Nederland"
+            }
+         }
+      },
+      "capital":[
+         "Amsterdam"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/47796"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ba.png",
+         "svg":"https://flagcdn.com/ba.svg"
+      },
+      "name":{
+         "common":"Bosnia and Herzegovina",
+         "official":"Bosnia and Herzegovina",
+         "nativeName":{
+            "bos":{
+               "official":"Bosna i Hercegovina",
+               "common":"Bosna i Hercegovina"
+            },
+            "hrv":{
+               "official":"Bosna i Hercegovina",
+               "common":"Bosna i Hercegovina"
+            },
+            "srp":{
+               "official":"Боснa и Херцеговина",
+               "common":"Боснa и Херцеговина"
+            }
+         }
+      },
+      "capital":[
+         "Sarajevo"
+      ],
+      "maps":{
+         "googleMaps":"https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/2528142"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/sm.png",
+         "svg":"https://flagcdn.com/sm.svg"
+      },
+      "name":{
+         "common":"San Marino",
+         "official":"Republic of San Marino",
+         "nativeName":{
+            "ita":{
+               "official":"Repubblica di San Marino",
+               "common":"San Marino"
+            }
+         }
+      },
+      "capital":[
+         "City of San Marino"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/54624"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/sk.png",
+         "svg":"https://flagcdn.com/sk.svg"
+      },
+      "name":{
+         "common":"Slovakia",
+         "official":"Slovak Republic",
+         "nativeName":{
+            "slk":{
+               "official":"Slovenská republika",
+               "common":"Slovensko"
+            }
+         }
+      },
+      "capital":[
+         "Bratislava"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/14296"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/by.png",
+         "svg":"https://flagcdn.com/by.svg"
+      },
+      "name":{
+         "common":"Belarus",
+         "official":"Republic of Belarus",
+         "nativeName":{
+            "bel":{
+               "official":"Рэспубліка Беларусь",
+               "common":"Белару́сь"
+            },
+            "rus":{
+               "official":"Республика Беларусь",
+               "common":"Беларусь"
+            }
+         }
+      },
+      "capital":[
+         "Minsk"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/59065"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/hu.png",
+         "svg":"https://flagcdn.com/hu.svg"
+      },
+      "name":{
+         "common":"Hungary",
+         "official":"Hungary",
+         "nativeName":{
+            "hun":{
+               "official":"Magyarország",
+               "common":"Magyarország"
+            }
+         }
+      },
+      "capital":[
+         "Budapest"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/9gfPupm5bffixiFJ6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/21335"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/cy.png",
+         "svg":"https://flagcdn.com/cy.svg"
+      },
+      "name":{
+         "common":"Cyprus",
+         "official":"Republic of Cyprus",
+         "nativeName":{
+            "ell":{
+               "official":"Δημοκρατία της Κύπρος",
+               "common":"Κύπρος"
+            },
+            "tur":{
+               "official":"Kıbrıs Cumhuriyeti",
+               "common":"Kıbrıs"
+            }
+         }
+      },
+      "capital":[
+         "Nicosia"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/307787"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/lt.png",
+         "svg":"https://flagcdn.com/lt.svg"
+      },
+      "name":{
+         "common":"Lithuania",
+         "official":"Republic of Lithuania",
+         "nativeName":{
+            "lit":{
+               "official":"Lietuvos Respublikos",
+               "common":"Lietuva"
+            }
+         }
+      },
+      "capital":[
+         "Vilnius"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/72596"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/ru.png",
+         "svg":"https://flagcdn.com/ru.svg"
+      },
+      "name":{
+         "common":"Russia",
+         "official":"Russian Federation",
+         "nativeName":{
+            "rus":{
+               "official":"Российская Федерация",
+               "common":"Россия"
+            }
+         }
+      },
+      "capital":[
+         "Moscow"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/4F4PpDhGJgVvLby57",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/fr.png",
+         "svg":"https://flagcdn.com/fr.svg"
+      },
+      "name":{
+         "common":"France",
+         "official":"French Republic",
+         "nativeName":{
+            "fra":{
+               "official":"République française",
+               "common":"France"
+            }
+         }
+      },
+      "capital":[
+         "Paris"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/1403916"
+      }
+   },
+   {
+      "flags":{
+         "png":"https://flagcdn.com/w320/is.png",
+         "svg":"https://flagcdn.com/is.svg"
+      },
+      "name":{
+         "common":"Iceland",
+         "official":"Iceland",
+         "nativeName":{
+            "isl":{
+               "official":"Ísland",
+               "common":"Ísland"
+            }
+         }
+      },
+      "capital":[
+         "Reykjavik"
+      ],
+      "maps":{
+         "googleMaps":"https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+         "openStreetMaps":"https://www.openstreetmap.org/relation/299133"
+      }
+   }
+]
