@@ -9,9 +9,9 @@ async function render(){
 
     for (const country of countries){
     
-        cards += `<div id="cards"  class="row row-cols-2 row-cols-md-5 g-4" >
+        cards += `<div id="cards"  class="card-group g-4" >
                     <div class="col">
-                        <div class="card h-100" style="width: 14rem;">
+                        <div class="card h-100">
                             <a  href="${country.maps.openStreetMaps}" target="_blank">
                             <img  src="${country.flags.png}" class="card-img-top" alt=""></a>
                             <div class="card-body">
