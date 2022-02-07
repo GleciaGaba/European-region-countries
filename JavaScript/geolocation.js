@@ -20,7 +20,7 @@
     
       
       
-      response = await fetch(`https://restcountries.com/v3.1/alpha/${country.cca2}?fields=capitalInfo`);
+      response = await fetch(`https://restcountries.com/v3.1/alpha/FR?fields=capitalInfo`);
       let mapCountry = await response.json();
 
       let lat = mapCountry.capitalInfo.latlng[0];
