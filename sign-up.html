@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <title>EU - Sign-Up</title>
+    <link rel="shortcut icon" href="favicon_io/favicon-16x16.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+        integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"
+        defer></script>
+    <script src="./JavaScript/index.js" defer></script>
+</head>
+
+<body>
+
+
+
+    <header class="sticky-top ">
+
+
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <div class="container-xl">
+                <a class="navbar-brand " href="index.html">Eu</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarScroll">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="table.html">Table</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="cards.html">Cards</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="geolocation.html">Geolocation</a>
+
+                    </ul>
+                            <div class="d-flex">
+                                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll ">
+                                    <li class="nav-item ">
+                                      <a class="nav-link  active" aria-current="page" href="sign-up.html">Sign up</a>
+                                     </li>
+                                     <li class="nav-item ">
+                                     <a class="nav-link" aria-current="page" href="sign-in.html">Sign in</a>
+                                     </li>
+                                </ul>
+                            
+                            </div>         
+                       
+                </div>
+            </div>
+        </nav>
+
+    </header>
+    <body>
+        <div class="container-xl">
+            <h1> Sign up</h1>
+    
+            <form class="row row-cols-lg-auto g-3 align-items-center mt-5">
+                <div class=" col col-md-6  mx-auto ">
+                    <label for="inlineFormInputGroupUsername">Username</label>
+                    <div class="input-group">
+                        <div class="input-group-text">@</div>
+                        <input type="text" class="form-control" id="inlineFormInputGroupUsername">
+                    </div>
+                    <p class="text-muted"> Must be a valid email adress</p>
+                    <label for="exampleInputPassword1" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1">
+                    <p class="text-muted"> From 8 to 12 characters, at least 1 uppercase letter, 1 lowercase letter, 1 digit
+                        and 1 special
+                        chararcter.</p>
+                    <label for="passwordConfirmation" class="form-label">Confirm password</label>
+                    <input type="password" class="form-control" id="passwordConfirmation">
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-3">
+                        <button class="btn btn-primary" type="button">Button</button>
+                    </div>
+                </div>
+        </div>
+    
+    </body>
